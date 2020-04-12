@@ -5,7 +5,8 @@
     "invite": "Invite",
     "discord": "Discord",
     "team": "Team",
-    "donate": "Donations"
+    "donate": "Donations",
+    "login": "Login"
   },
   "descriptions": {
     "home": "",
