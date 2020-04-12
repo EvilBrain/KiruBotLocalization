@@ -5,7 +5,8 @@
     "invite": "Inviter",
     "discord": "Discord",
     "team": "L'équipe",
-    "donate": "Donations"
+    "donate": "Donations",
+    "login": "Se connecter"
   },
   "descriptions": {
     "home": "Coming soon...",
