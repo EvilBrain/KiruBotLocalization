@@ -1,10 +1,10 @@
 {
-  title: {
-    home: "Accueil",
-    commands: "Commandes",
-    invite: "Inviter",
-    discord: "Discord",
-    team: "L'équipe",
-    donate: "Donations"
+  "title": {
+    "home": "Accueil",
+    "commands": "Commandes",
+    "invite": "Inviter",
+    "discord": "Discord",
+    "team": "L'équipe",
+    "donate: "Donations"
   }
 }
