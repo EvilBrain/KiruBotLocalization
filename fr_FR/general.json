@@ -6,5 +6,13 @@
     "discord": "Discord",
     "team": "L'équipe",
     "donate": "Donations"
+  },
+  "descriptions": {
+    "home": "Coming soon...",
+    "commands": "Liste des commandes du KiruBot.",
+    "invite": "Coming soon...",
+    "discord": "En construction...",
+    "team": "Coming soon...",
+    "donate": "Coming soon..."
   }
 }
