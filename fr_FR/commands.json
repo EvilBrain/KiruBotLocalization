@@ -1,0 +1,7 @@
+{
+  "general": {
+    "commandName": "Commande",
+    "commandDescription": "Description",
+    "commandUsage": "Utilisation",
+    "commandExample": "Exemple"
+}
