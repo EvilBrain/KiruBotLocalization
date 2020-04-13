@@ -3,6 +3,6 @@
     "commandName": "Command",
     "commandDescription": "Description",
     "commandUsage": "Usage",
-    "commandExample": "Example",
+    "commandExample": "Example"
   }
 }
