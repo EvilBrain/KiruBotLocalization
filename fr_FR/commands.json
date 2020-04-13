@@ -4,5 +4,11 @@
     "commandDescription": "Description",
     "commandUsage": "Utilisation",
     "commandExample": "Exemple"
+  },
+  "categories": {
+    "utils": "Utile",
+    "mods": "Modération",
+    "admin": "Administration",
+    "funs": "Amusement"
   }
 }
