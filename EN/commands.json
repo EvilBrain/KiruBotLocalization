@@ -1,8 +1,8 @@
 {
   "general": {
-    "commandName": "",
-    "commandDescription": "",
-    "commandUsage": "",
-    "commandExample": ""
+    "commandName": "Command",
+    "commandDescription": "Description",
+    "commandUsage": "Usage",
+    "commandExample": "Example"
   }
 }
