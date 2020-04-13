@@ -6,9 +6,9 @@
     "commandExample": "Example"
   },
   "categories": {
-    "utils": "",
-    "mods": "",
-    "admin": "",
-    "funs": ""
+    "utils": "Utility",
+    "mods": "Moderation",
+    "admin": "Administration",
+    "funs": "Fun"
   }
 }
