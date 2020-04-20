@@ -6,7 +6,8 @@
     "discord": "Discord",
     "team": "L'équipe",
     "donate": "Donations",
-    "login": "Se connecter"
+    "login": "Se connecter",
+    "logout": "Se déconnecter"
   },
   "descriptions": {
     "home": "Coming soon...",
